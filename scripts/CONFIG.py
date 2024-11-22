@@ -55,21 +55,8 @@ rtc_query_url_input = True
 ###################################
 rtc_query_urls = {
     
-    'epic':['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_MrfzQEpiEe2fXugFmTmyJA'],
-    'feature':['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_UG4mwEpiEe2fXugFmTmyJA'],
-    'story':['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_f5aZoEpiEe2fXugFmTmyJA'],
-    'aststory':['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_9I0IgEphEe2fXugFmTmyJA'],
-    'enhancementstory':['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_KkYVwEpiEe2fXugFmTmyJA'],
-    'defectstory':['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_IimrQEpiEe2fXugFmTmyJA'],
-    'sitstory':['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.runSavedQuery&id=_ZGy2UEpiEe2fXugFmTmyJA'],
-    'technicalspike':['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_iYUsEEpiEe2fXugFmTmyJA'],
-    "specificationstory":['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_bK6qMEpiEe2fXugFmTmyJA'],
-    "assessmentstory":['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_2HPjMEphEe2fXugFmTmyJA'],
+    'epic':["https://jazz.net/sandbox01-ccm/web/projects/Cloud%20Migration%20Project%20%28Change%20and%20Architecture%20Management%29#action=com.ibm.team.workitem.viewQueries&tab=owned&queryItemId=_a-Lk8Ki6Ee-z1t4v_oi5jw&queryAction=com.ibm.team.workitem.runSavedQuery&refresh=true"]
 
-    #"specificationtask":['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_d5vn8EpiEe2fXugFmTmyJA'],
-    
-    "itpstory":['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=_XB60gEpiEe2fXugFmTmyJA'],
-    "csd":['https://rtcus1.ta.philips.com/ccm/web/projects/ULT#action=com.ibm.team.workitem.editQuery&id=__3YAgEphEe2fXugFmTmyJA']
 }
 
 ###################################

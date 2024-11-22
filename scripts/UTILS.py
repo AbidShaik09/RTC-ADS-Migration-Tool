@@ -32,7 +32,7 @@ def init_log_file(filename):
     # crate logging folder if it does not exit
     init_dir(CONFIG.logging_filepath)
     # init log file details
-    logging.basicConfig(filename=filename, encoding='utf-8', level=logging.INFO)
+    logging.basicConfig(filename=filename, level=logging.INFO)
     now = datetime.now()
     dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
     logging.info('\nMigration log file created '+dt_string)
